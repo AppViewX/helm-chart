@@ -3,9 +3,33 @@ entries:
   crypto-mesh:
   - annotations:
       artifacthub.io/prerelease: "false"
+    apiVersion: v1.3.2
+    appVersion: v1.3.2
+    created: "2024-03-20T11:55:26.049894903+05:30"
+    description: A Helm chart for crypto-mesh
+    digest: 5e3ce14973ebeec9ab9bf6f634fe39ba73b2d29df5b27b733eea4e0f671c4fd0
+    home: https://www.appviewx.com/
+    icon: https://pages.appviewx.com/rs/249-TWN-899/images/AVX%20Fav%20Icon.png
+    keywords:
+    - cert-orchestrator
+    - appviewx-csi-provider
+    - appviewx-signer
+    - discovery
+    - security
+    - mtls
+    - tls
+    - secret
+    - certificate
+    kubeVersion: '>= 1.19.6-0'
+    name: crypto-mesh
+    urls:
+    - https://appviewx.github.io/helm-chart/crypto-mesh-v1.3.2.tgz
+    version: v1.3.2
+  - annotations:
+      artifacthub.io/prerelease: "false"
     apiVersion: v1.3.1
     appVersion: v1.3.1
-    created: "2024-03-06T19:26:06.022824591+05:30"
+    created: "2024-03-20T11:55:26.048979172+05:30"
     description: A Helm chart for crypto-mesh
     digest: 099963ddb7087fe243e4dc08b7f60460d28d23730210843f48809921b53adbef
     home: https://www.appviewx.com/
@@ -29,7 +53,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1.3
     appVersion: v1.3
-    created: "2024-03-06T19:26:06.023763113+05:30"
+    created: "2024-03-20T11:55:26.051881174+05:30"
     description: A Helm chart for crypto-mesh
     digest: 9a3034611578faf3d3825b721f8d516b0865018e205c20dc487980ae5bef27c2
     home: https://www.appviewx.com/
@@ -53,7 +77,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1.2
     appVersion: v1.2
-    created: "2024-03-06T19:26:06.022106665+05:30"
+    created: "2024-03-20T11:55:26.048049185+05:30"
     description: A Helm chart for crypto-mesh
     digest: 0d3257e9cfeff66c8b9a676f72564487a482d5986420038406c24e9b39bc7084
     home: https://www.appviewx.com/
@@ -77,7 +101,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1.1
     appVersion: v1.1
-    created: "2024-03-06T19:26:06.021259505+05:30"
+    created: "2024-03-20T11:55:26.046845983+05:30"
     description: A Helm chart for crypto-mesh
     digest: 541b13bd6ff92a63e6791beb04f40beeaf0a3e1061b961b2535a5b36d8250c48
     home: https://www.appviewx.com/
@@ -101,7 +125,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1.1-release
     appVersion: v1.1-release
-    created: "2024-03-06T19:26:06.020383626+05:30"
+    created: "2024-03-20T11:55:26.045941191+05:30"
     description: A Helm chart for crypto-mesh
     digest: 312272f13f91d3531e2124834c771b5a0d31642be9b9c473137a6ee7dc59b95c
     home: https://www.appviewx.com/
@@ -125,7 +149,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1.0.1
     appVersion: v1.0.1
-    created: "2024-03-06T19:26:06.017748214+05:30"
+    created: "2024-03-20T11:55:26.04361193+05:30"
     description: A Helm chart for crypto-mesh
     digest: 4eaa3849425e701ee8b249845127bf1d5e853861cd46c17557bdbf54b0d5f243
     home: https://www.appviewx.com/
@@ -149,7 +173,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1.0
     appVersion: v1.0
-    created: "2024-03-06T19:26:06.018433705+05:30"
+    created: "2024-03-20T11:55:26.045004449+05:30"
     description: A Helm chart for crypto-mesh
     digest: f7eae597eb41dea8d151a0c09b5d7127cf43cc967c23d5c157456d5ef490008c
     home: https://www.appviewx.com/
@@ -173,7 +197,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: master-dev
     appVersion: master-dev
-    created: "2024-03-06T19:26:06.017079347+05:30"
+    created: "2024-03-20T11:55:26.042843169+05:30"
     description: A Helm chart for crypto-mesh
     digest: 29b9402b810d5a8e64499c6266ecaf78c1bd1bbc9a441856acf2a0cc9528e7cc
     home: https://www.appviewx.com/
@@ -193,4 +217,4 @@ entries:
     urls:
     - https://appviewx.github.io/helm-chart/crypto-mesh-v1.0-master-dev.tgz
     version: v1.0-master-dev
-generated: "2024-03-06T19:26:06.016155665+05:30"
+generated: "2024-03-20T11:55:26.041804036+05:30"
